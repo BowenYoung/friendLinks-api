@@ -54,5 +54,4 @@ https://issues-api.vercel.app/v1/yourname/examples/master
 
 ## 感谢
 
-非常感谢 [@Zfour](https://github.com/Zfour) 的 python 代码和耐心指导！
-文章链接：[《教程：github/gitee issues的友链信息自动生成json及api调用》](https://zfe.space/post/python-issues-api.html)
+项目来自[xaoxuu/issues-api](https://github.com/xaoxuu/issues-api)

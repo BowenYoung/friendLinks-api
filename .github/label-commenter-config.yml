@@ -25,3 +25,19 @@ labels:
           **⚠️ 抱歉，您的网站打不开，或者存在违规信息，现已下架。**
 
           如果您确认可以打开或者已经处理了违规信息，请在下方评论告知，我们会在人工审核通过后恢复上架。
+          
+  - name: 'need-update'
+    labeled:
+      issue:
+        body: |
+          **您的信息不完备，请参考https://bowenyoung.cn/friends/ 按要求填写必要信息。**
+
+          如果您已经填写必要信息，请在评论告知。
+          
+  - name: 'unsafe'
+    labeled:
+      issue:
+        body: |
+          **您的站点没有开启https。**
+
+          请部署SSL证书后开启https，若您已开启https，请在评论告知。
